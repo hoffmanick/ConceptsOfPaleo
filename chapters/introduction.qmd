@@ -1,0 +1,12 @@
+---
+title: "Introduction"
+format: html
+---
+
+## What this Book is
+
+Concepts of Paleoecology based on Neotoma data
+
+## What it isn't
+
+Methods of paleo, non Neotoma, deeper time

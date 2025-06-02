@@ -1,0 +1,20 @@
+---
+title: "Concepts of Paleoecology"
+format: html
+---
+
+# Welcome
+
+Welcome to Concepts of Paleoecology! This book is for teaching the concepts of Quaternary (past 2.58 million years) Paleoecology through Neotoma data.
+
+## About This Book
+
+This book will cover the following
+
+### Features
+
+-   Clear explanations with diagrams and visuals
+
+-   Interactive code cells
+
+-   Practice

@@ -1,0 +1,19 @@
+---
+title: "Stratigraphic Plotting"
+format: html
+---
+
+## Overview
+
+This page is about stratigraphic plotting using Tilia, Rioja, poldata...
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+library(rioja)
+data(aber)
+strat.plot(aber$spec, scale.percent=TRUE, y.rev=TRUE)
+
+```
