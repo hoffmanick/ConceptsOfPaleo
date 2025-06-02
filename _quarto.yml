@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "Concepts of Paleoecology"
+  author: "Nick Hoffman"
+  chapters:
+    - index.qmd
+    - chapters/introduction.qmd
+    - chapters/chp1_stratplot.qmd
+
+
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+  pdf:
+    documentclass: scrreprt
